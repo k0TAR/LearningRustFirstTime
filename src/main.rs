@@ -1,5 +1,5 @@
-mod pointer_ref;
+mod cli;
 
 fn main() {
-	pointer_ref::run();
+	cli::run();
 }
