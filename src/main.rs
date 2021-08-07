@@ -1,5 +1,5 @@
-mod types;
+mod vectors;
 
 fn main() {
-	types::run();
+	vectors::run();
 }
